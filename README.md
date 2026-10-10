@@ -10,8 +10,7 @@
 I build the systems that make AI useful.
 Backend engineering · LLM applications · Search & retrieval · Reliable async workflows
 </div>
-A bit about me
-I'm a backend engineer with 5+ years of software development experience, now focused on AI engineering: taking LLM and retrieval ideas beyond a demo and shaping them into systems that are testable, observable, and dependable.
+A bit about me I'm a backend engineer with 5+ years of software development experience, now focused on AI engineering: taking LLM and retrieval ideas beyond a demo and shaping them into systems that are testable, observable, and dependable.
 My background spans enterprise search, distributed backend services, data ingestion, and healthcare document workflows. I enjoy the engineering around AI just as much as the model call itself: clean interfaces, retrieval quality, failure handling, evaluation, and cost-aware execution.
 Building with: Python, FastAPI, Node.js, NestJS, and TypeScript
 AI systems: LLM workflows, tool calling, embeddings, RAG, and agent orchestration
