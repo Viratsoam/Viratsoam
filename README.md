@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5a4&height=200&section=header&text=Vikas Soam&fontSize=64&fontColor=ffffff&animation=fadeIn" width="100%" alt="Vikas Soam profile header" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=pulse&height=250&color=gradient&section=header&reversal=false&text=Vikas+Soam&textBg=false&fontColor=fffffff&fontSize=70&fontAlign=49&fontAlignY=47&animation=scaleIn&rotate=0&strokeWidth=0&desc=Backend+-+AI+Engineer&descSize=20&descAlign=50&descAlignY=61" width="100%" alt="Vikas Soam profile header" />
+</p>
 <div align="center">
 <h1>Hi, I'm Vikas Soam 👋</h1>
 <a href="https://viratsoam.github.io/VikasSoam/">
