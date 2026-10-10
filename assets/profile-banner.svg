@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Vikas Soam — Backend and AI Engineering</title>
+  <desc id="desc">A dark navy and teal abstract diagram representing connected services, data retrieval, and AI workflows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081526"/>
+      <stop offset="55%" stop-color="#102b40"/>
+      <stop offset="100%" stop-color="#0b4b4b"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity=".9"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#b6e3ef" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1020" cy="70" r="120" fill="#2dd4bf" opacity=".12" filter="url(#soft)"/>
+  <circle cx="860" cy="270" r="110" fill="#60a5fa" opacity=".10" filter="url(#soft)"/>
+  <path d="M760 74H870V125H970M760 74V186H850M850 186H1010V230H1090M970 125V164H1080" stroke="url(#glow)" stroke-width="2" fill="none" opacity=".8"/>
+  <path d="M760 74H870V125H970M760 74V186H850M850 186H1010V230H1090M970 125V164H1080" stroke="#5eead4" stroke-width="7" fill="none" opacity=".08"/>
+  <g fill="#0e2638" stroke="#5eead4" stroke-width="1.5">
+    <rect x="710" y="52" width="100" height="44" rx="10"/>
+    <rect x="870" y="103" width="100" height="44" rx="10"/>
+    <rect x="800" y="164" width="100" height="44" rx="10"/>
+    <rect x="1010" y="142" width="100" height="44" rx="10"/>
+    <rect x="1040" y="209" width="100" height="44" rx="10"/>
+  </g>
+  <g fill="#d5fbf4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" text-anchor="middle">
+    <text x="760" y="79">API</text>
+    <text x="920" y="130">RETRIEVE</text>
+    <text x="850" y="191">WORKER</text>
+    <text x="1060" y="169">LLM</text>
+    <text x="1090" y="236">TRACE</text>
+  </g>
+  <g fill="#5eead4">
+    <circle cx="760" cy="74" r="4"/><circle cx="920" cy="125" r="4"/><circle cx="850" cy="186" r="4"/><circle cx="1060" cy="164" r="4"/><circle cx="1090" cy="230" r="4"/>
+  </g>
+  <text x="72" y="104" fill="#91f2e2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="3">BACKEND × AI ENGINEERING</text>
+  <text x="68" y="168" fill="#f1f7fb" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="750" letter-spacing="-1.8">Vikas Soam</text>
+  <text x="72" y="210" fill="#c2d8e5" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="21">Building reliable systems around AI.</text>
+  <path d="M72 250H380" stroke="url(#glow)" stroke-width="3" stroke-linecap="round"/>
+  <text x="72" y="281" fill="#a8c5d4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">SEARCH  /  AGENTS  /  DISTRIBUTED SYSTEMS</text>
+</svg>
