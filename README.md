@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&height=250&color=gradient&section=header&reversal=false&text=Vikas+Soam&textBg=false&fontColor=fffffff&fontSize=70&fontAlign=49&fontAlignY=47&animation=scaleIn&rotate=0&strokeWidth=0&desc=Backend+-+AI+Engineer&descSize=20&descAlign=50&descAlignY=61" width="100%" alt="Vikas Soam profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=pulse&height=150&color=gradient&section=header&reversal=false&text=Vikas+Soam&textBg=false&fontColor=fffffff&fontSize=70&fontAlign=49&fontAlignY=47&animation=scaleIn&rotate=0&strokeWidth=0&desc=Backend+-+AI+Engineer&descSize=20&descAlign=50&descAlignY=73" width="100%" alt="Vikas Soam profile header" />
 </p>
 <div align="center">
 <h1>Hi, I'm Vikas Soam 👋</h1>
